@@ -1,3 +1,6 @@
 [submodule "media_filter"]
 	path = media_filter
 	url = https://github.com/zhuqingquan/media_filter.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/zhuqingquan/zutils.git
